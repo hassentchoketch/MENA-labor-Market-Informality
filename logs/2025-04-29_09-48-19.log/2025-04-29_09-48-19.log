@@ -1,0 +1,4 @@
+[2025-04-29 09:48:26] root - INFO - Data read successfully from the source.
+[2025-04-29 09:48:26] root - INFO - Raw data saved to artifacts\data.csv.
+[2025-04-29 09:48:26] root - INFO - Train data saved to artifacts\train.csv.
+[2025-04-29 09:48:26] root - INFO - Test data saved to artifacts\test.csv.
