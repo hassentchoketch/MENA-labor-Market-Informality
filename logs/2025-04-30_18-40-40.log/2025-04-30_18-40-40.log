@@ -1,0 +1,11 @@
+[2025-04-30 18:40:46] root - INFO - Data read successfully from the source.
+[2025-04-30 18:40:46] root - INFO - Raw data saved to artifacts\data.csv.
+[2025-04-30 18:40:46] root - INFO - Train data saved to artifacts\train.csv.
+[2025-04-30 18:40:46] root - INFO - Test data saved to artifacts\test.csv.
+[2025-04-30 18:40:47] root - INFO - Read train and test data completed
+[2025-04-30 18:40:47] root - INFO - Obtaining preprocessor object
+[2025-04-30 18:40:47] root - INFO - Applying preprocessing object on training and testing dataframes
+[2025-04-30 18:40:47] root - INFO - Preprocessing completed
+[2025-04-30 18:40:47] root - INFO - Train and test data saved successfully.
+[2025-04-30 18:40:47] root - INFO - Splitting training and testing data
+[2025-04-30 18:40:57] root - INFO - Best model found: Logistic Regression with score: 0.7947686116700201
