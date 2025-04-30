@@ -2,11 +2,13 @@ import os
 import sys
 from src.logger import logging
 from src.exception import CustomException
+from typing import Tuple
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
-from typing import Optional, Tuple
+
+from src.components.data_transformation import DataTransformation
 
 @dataclass
 class DataIngestionConfig:
@@ -26,7 +28,8 @@ class DataIngestion:
         """
         try:
             # Read the data from the source
-            df = pd.read_csv("notebook\informality_data_for_analysis.csv")
+            df = pd.read_excel("notebook\informality_data_for_analysis.xlsx")
+            
             logging.info("Data read successfully from the source.")
             
             # Save the raw data to the specified path
@@ -44,13 +47,17 @@ class DataIngestion:
             logging.info(f"Train data saved to {self.ingestion_config.train_data_path}.")
             logging.info(f"Test data saved to {self.ingestion_config.test_data_path}.")
             
-            return self.ingestion_config.train_data_path, self.ingestion_config.test_data_path
+            return (self.ingestion_config.train_data_path, self.ingestion_config.test_data_path)
         
         except Exception as e:
             raise CustomException(e, sys) from e
+      
+      
         
 if __name__ == "__main__":
-    data_ingestion = DataIngestion()
-    train_data_path, test_data_path = data_ingestion.initiate_data_ingestion()
-    print(f"Train data path: {train_data_path}")
-    print(f"Test data path: {test_data_path}")
+    data_ingestion_obj = DataIngestion()
+    train_data_path, test_data_path = data_ingestion_obj.initiate_data_ingestion()
+
+    data_transformation_obj = DataTransformation()
+    data_transformation_obj.initiate_data_transformation(train_data_path, test_data_path)
+    logging.info("Train and test data saved successfully.")   

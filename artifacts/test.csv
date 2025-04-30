@@ -1,498 +1,498 @@
-;country;Gender;Age;Marital status;Stratum Urban;HM25_1;Natur of work;Level of Wealth;Fathers level education;Parent_affiliated_with Social Security;Participation in elections;Freedom to speach out about government;Resort to nepotism;Trust in Parliment;Trust in employers;Trust in associations;Trust in political_parties;Political system;Formality
-1812;TN;Male;<= 19;Never Mar;Rural;Middle;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1504;EG;Female;25+;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1259;EG;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1571;LB;Male;<= 19;Never Mar;Rural;Primary;non manua;No;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2715;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;No educati;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1127;LB;Male;25+;Never Mar;Rural;Secondary;manual t;Yes;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-197;TN;Male;25+;Ever Marr;Urban;Secondary;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;yes;Oui;Non;formal
-536;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;Primary;Yes;Oui;Completel;Yes;Non;No;No;Non;Non;formal
-1717;LB;Male;25+;Never Mar;Rural;Higher;manual t;Yes;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-213;LB;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Non;formal
-839;LB;Female;25+;Ever Marr;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Oui;formal
-1642;EG;Male;<= 19;Never Mar;Urban;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-1206;LB;Female;25+;Never Mar;Rural;Higher;manual t;Yes;Middle;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2375;DZ;Female;<= 19;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2815;TN;Male;25+;Ever Marr;Urban;Secondary;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2217;TN;Female;25+;Ever Marr;Urban;Higher;manual t;No;Middle;No;Oui;Not at al;No;Non;No;No;Oui;Oui;informal
-2692;EG;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;Secondary;Yes;Non;Not at al;No;Non;No;No;Oui;Oui;informal
-1099;TN;Male;<= 19;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Oui;informal
-2957;LB;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-50;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-127;LB;Male;25+;Ever Marr;Urban;Higher;non manua;No;Middle;Yes;Oui;Not at al;Yes;Non;No;yes;Oui;Non;formal
-65;LB;Female;20 - 24;Ever Marr;Urban;Higher;non manua;Yes;Primary;No;Non;Not at al;No;Non;yes;yes;Non;Oui;formal
-203;EG;Male;25+;Ever Marr;Rural;Higher;non manua;No;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1851;LB;Male;<= 19;Never Mar;Rural;Middle;manual t;No;Middle;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-1627;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-2444;LB;Female;25+;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-1598;EG;Female;20 - 24;Never Mar;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-542;EG;Male;20 - 24;Ever Marr;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-921;EG;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-632;EG;Female;25+;Ever Marr;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;yes;Non;Non;formal
-1685;EG;Male;25+;Never Mar;Rural;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-886;EG;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;No;Oui;Oui;formal
-1507;TN;Female;25+;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1979;DZ;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1572;LB;Female;25+;Ever Marr;Rural;Middle;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2913;LB;Male;25+;Never Mar;Urban;Secondary;manual t;No;Middle;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-1414;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-486;LB;Female;25+;Never Mar;Urban;Middle;non manua;Yes;Middle;No;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-1004;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;Primary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1595;TN;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Non;Not at al;No;Non;yes;No;Non;Non;informal
-2327;EG;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;Primary;Yes;Oui;Not at al;No;Non;No;yes;Non;Non;informal
-289;TN;Female;25+;Never Mar;Urban;No educati;non manua;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;formal
-1370;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Primary;Yes;Non;Not at al;Yes;Non;No;yes;Non;Non;informal
-2970;LB;Male;<= 19;Never Mar;Urban;Primary;non manua;No;Middle;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-106;LB;Female;25+;Ever Marr;Urban;Secondary;manual t;No;Primary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1036;TN;Female;25+;Ever Marr;Urban;Higher;non manua;No;Primary;Yes;Non;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-2801;TN;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;Yes;Oui;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-2540;TN;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;Yes;Non;yes;No;Oui;Oui;informal
-1657;TN;Male;25+;Never Mar;Rural;Secondary;manual t;No;Primary;Yes;Oui;Not at al;No;Non;yes;No;Oui;Oui;informal
-1457;DZ;Male;25+;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Non;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-2093;TN;Male;<= 19;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Non;Completel;No;Non;yes;yes;Oui;Oui;informal
-788;DZ;Male;25+;Never Mar;Urban;Higher;non manua;No;Higher;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-762;DZ;Male;25+;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1838;EG;Male;<= 19;Never Mar;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2660;LB;Male;<= 19;Never Mar;Urban;Middle;non manua;No;Primary;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-2266;DZ;Male;25+;Never Mar;Rural;Primary;manual t;No;Primary;No;Non;Completel;No;Non;No;No;Non;Non;informal
-695;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;No;Oui;Oui;formal
-554;DZ;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;No educati;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;formal
-591;LB;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1605;TN;Male;20 - 24;Never Mar;Urban;Middle;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-2521;LB;Female;25+;Ever Marr;Urban;Middle;manual t;No;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-733;DZ;Male;20 - 24;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Non;Completel;Yes;Non;No;yes;Oui;Oui;formal
-2941;DZ;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-265;LB;Female;25+;Ever Marr;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;formal
-952;DZ;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2430;EG;Male;<= 19;Never Mar;Urban;Primary;manual t;No;No educati;No;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-2398;TN;Female;20 - 24;Never Mar;Urban;Secondary;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-2739;TN;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2771;EG;Male;25+;Ever Marr;Rural;Primary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1390;EG;Male;<= 19;Never Mar;Rural;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-1580;EG;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1205;EG;Male;<= 19;Never Mar;Rural;Middle;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;No;Oui;Non;informal
-2788;LB;Female;<= 19;Never Mar;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-1032;LB;Male;25+;Never Mar;Urban;Secondary;non manua;No;No educati;No;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-1949;TN;Female;20 - 24;Never Mar;Urban;Higher;manual t;No;Primary;Yes;Oui;Not at al;Yes;Non;No;No;Oui;Oui;informal
-2235;EG;Male;25+;Ever Marr;Urban;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-284;LB;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Oui;Not at al;No;Non;No;yes;Non;Non;formal
-488;DZ;Male;25+;Never Mar;Urban;Secondary;manual t;Yes;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-972;DZ;Female;20 - 24;Never Mar;Urban;Middle;manual t;No;Middle;Yes;Non;Completel;No;Non;No;No;Non;Non;informal
-1198;EG;Male;25+;Never Mar;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1263;DZ;Male;25+;Never Mar;Urban;Primary;manual t;No;No educati;No;Non;Completel;No;Non;yes;yes;Oui;Oui;informal
-2605;TN;Male;25+;Never Mar;Rural;Higher;manual t;No;No answer;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-2566;TN;Female;25+;Never Mar;Urban;Middle;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;No;Oui;Oui;informal
-2713;TN;Female;25+;Never Mar;Rural;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;No;yes;Non;Non;informal
-282;TN;Male;25+;Never Mar;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-731;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-2236;TN;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;No;Oui;Oui;informal
-1449;LB;Male;<= 19;Never Mar;Rural;Middle;manual t;Yes;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2487;EG;Male;25+;Never Mar;Rural;Higher;manual t;No;Secondary;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-357;EG;Male;20 - 24;Ever Marr;Rural;Secondary;non manua;No;Primary;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2032;LB;Female;25+;Ever Marr;Rural;Higher;non manua;Yes;Higher;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2601;EG;Male;20 - 24;Never Mar;Rural;Primary;manual t;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1394;DZ;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-51;DZ;Male;20 - 24;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Non;Completel;No;Non;No;No;Non;Non;formal
-1867;EG;Male;25+;Never Mar;Urban;Higher;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Non;Oui;informal
-1209;DZ;Male;25+;Never Mar;Urban;Middle;manual t;Yes;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2403;LB;Female;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-2180;LB;Male;25+;Never Mar;Rural;Primary;non manua;No;Middle;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1963;EG;Male;25+;Ever Marr;Rural;Middle;non manua;No;Secondary;Yes;Oui;Not at al;Yes;Non;No;yes;Non;Oui;informal
-1776;EG;Female;25+;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-994;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;Secondary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1232;TN;Male;25+;Never Mar;Urban;Primary;manual t;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-914;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-504;DZ;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;No educati;Yes;Oui;Completel;No;Non;yes;yes;Oui;Oui;formal
-780;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-473;DZ;Female;25+;Never Mar;Urban;Middle;manual t;No;Middle;Yes;Oui;Not at al;Yes;Non;yes;No;Non;Non;formal
-2350;DZ;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Middle;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2371;TN;Female;20 - 24;Never Mar;Rural;Primary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-589;TN;Male;25+;Ever Marr;Urban;Primary;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;yes;Oui;Oui;formal
-840;DZ;Male;25+;Ever Marr;Urban;Secondary;non manua;No;Middle;Yes;Oui;Completel;No;Non;yes;yes;Oui;Non;formal
-2012;EG;Male;25+;Never Mar;Urban;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2695;LB;Male;<= 19;Never Mar;Urban;Primary;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-568;LB;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Secondary;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1435;DZ;Male;<= 19;Never Mar;Rural;Primary;manual t;No;No educati;No;Non;Completel;No;Non;No;yes;Oui;Oui;informal
-2858;DZ;Male;<= 19;Never Mar;Urban;Middle;manual t;Yes;Middle;Yes;Non;Completel;No;Non;No;No;Oui;Oui;informal
-1859;EG;Male;25+;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1267;LB;Male;20 - 24;Never Mar;Rural;Middle;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-2593;DZ;Male;25+;Never Mar;Urban;Middle;non manua;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1423;TN;Female;<= 19;Never Mar;Urban;Middle;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-331;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;formal
-1462;EG;Male;20 - 24;Ever Marr;Rural;No educati;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1676;DZ;Female;20 - 24;Never Mar;Urban;Secondary;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-1508;EG;Male;20 - 24;Never Mar;Rural;Higher;manual t;No;Middle;Yes;Oui;Completel;No;Non;No;yes;Non;Non;informal
-933;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;No;Non;Non;formal
-2434;LB;Male;20 - 24;Never Mar;Rural;Primary;non manua;No;No educati;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1944;LB;Female;25+;Never Mar;Urban;Secondary;non manua;No;Primary;No;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-2064;TN;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;No educati;Yes;Non;Not at al;Yes;Non;yes;No;Non;Non;informal
-153;DZ;Male;25+;Never Mar;Urban;Primary;non manua;Yes;No educati;Yes;Non;Completel;Yes;Non;No;No;Oui;Oui;formal
-1542;EG;Male;20 - 24;Ever Marr;Rural;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-793;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;formal
-463;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;formal
-688;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-491;EG;Male;25+;Ever Marr;Rural;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2165;LB;Female;25+;Never Mar;Urban;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;No;yes;Non;Non;informal
-1080;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1288;TN;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2225;DZ;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;Secondary;Yes;Non;Completel;Yes;Non;No;yes;Non;Non;informal
-1468;EG;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;Secondary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-1796;EG;Male;25+;Ever Marr;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-1404;DZ;Female;25+;Ever Marr;Urban;Primary;non manua;No;No educati;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-110;LB;Male;20 - 24;Ever Marr;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-364;DZ;Male;25+;Ever Marr;Urban;Middle;manual t;No;No educati;Yes;Non;Completel;Yes;Non;No;No;Non;Non;formal
-558;LB;Female;25+;Never Mar;Rural;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-543;TN;Female;25+;Ever Marr;Urban;Higher;non manua;No;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;formal
-281;TN;Female;25+;Ever Marr;Urban;Secondary;non manua;No;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1735;DZ;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;Primary;No;Oui;Completel;Yes;Non;yes;No;Non;Non;informal
-1764;TN;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2116;DZ;Male;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-2467;DZ;Male;25+;Never Mar;Urban;Middle;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Non;informal
-1226;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;Secondary;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-633;EG;Male;25+;Ever Marr;Urban;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Oui;Non;formal
-1300;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2334;TN;Male;25+;Never Mar;Urban;Middle;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2939;LB;Male;25+;Ever Marr;Rural;Higher;non manua;Yes;Primary;No;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-1230;TN;Female;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2655;EG;Male;25+;Never Mar;Urban;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-268;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-1153;EG;Male;25+;Never Mar;Urban;Secondary;manual t;No;Middle;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1296;TN;Female;<= 19;Never Mar;Urban;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1063;LB;Male;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Secondary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-2964;EG;Male;20 - 24;Never Mar;Rural;Primary;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-534;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2531;TN;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;Primary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-912;TN;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;No;yes;Non;Non;formal
-1526;LB;Male;25+;Never Mar;Rural;Higher;manual t;Yes;Secondary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2912;EG;Male;25+;Never Mar;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;No;No;Oui;Non;informal
-1502;DZ;Male;20 - 24;Never Mar;Urban;Higher;manual t;Yes;Primary;Yes;Oui;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-1461;EG;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2163;TN;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-842;LB;Male;25+;Ever Marr;Urban;Middle;non manua;No;No educati;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1463;EG;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;Middle;No;Oui;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-1393;EG;Female;20 - 24;Never Mar;Rural;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1641;EG;Male;25+;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-977;EG;Male;25+;Never Mar;Urban;Secondary;manual t;No;Higher;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1170;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-498;LB;Female;25+;Never Mar;Rural;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;Yes;Non;No;yes;Non;Non;formal
-968;DZ;Male;20 - 24;Never Mar;Urban;Middle;non manua;Yes;No educati;No;Oui;Completel;Yes;Non;yes;yes;Oui;Oui;informal
-1268;DZ;Male;25+;Never Mar;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-1055;EG;Female;25+;Never Mar;Urban;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2088;LB;Male;<= 19;Never Mar;Urban;Middle;manual t;No;Secondary;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-1476;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;Middle;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2534;LB;Male;20 - 24;Never Mar;Urban;Middle;non manua;Yes;No educati;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-2479;LB;Male;25+;Never Mar;Urban;Middle;non manua;Yes;No educati;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-275;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-191;DZ;Male;20 - 24;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Oui;Completel;No;Non;No;No;Non;Non;formal
-1272;LB;Male;<= 19;Never Mar;Rural;Middle;non manua;No;Middle;No;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-238;LB;Female;25+;Ever Marr;Urban;Middle;non manua;No;Middle;No;Non;Not at al;Yes;Non;No;No;Non;Non;formal
-1522;LB;Male;20 - 24;Never Mar;Urban;Primary;non manua;No;Higher;Yes;Non;Not at al;No;Non;No;yes;Non;Non;informal
-221;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Non;formal
-2880;LB;Female;20 - 24;Never Mar;Urban;Higher;manual t;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2986;DZ;Male;20 - 24;Never Mar;Rural;No educati;manual t;No;No educati;No;Oui;Completel;Yes;Non;yes;yes;Non;Non;informal
-2351;EG;Male;25+;Ever Marr;Urban;Secondary;non manua;No;Primary;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;informal
-237;EG;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;formal
-1644;TN;Male;25+;Never Mar;Urban;Secondary;manual t;No;Primary;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-1350;LB;Female;20 - 24;Ever Marr;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-970;TN;Female;25+;Never Mar;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;No;Oui;Oui;informal
-1181;EG;Male;25+;Never Mar;Rural;Higher;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1338;LB;Male;25+;Ever Marr;Urban;Middle;non manua;Yes;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-889;DZ;Male;25+;Ever Marr;Rural;Middle;non manua;No;Primary;No;Oui;Not at al;Yes;Non;yes;No;Oui;Oui;formal
-2707;LB;Male;25+;Never Mar;Urban;Middle;manual t;No;Middle;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-798;DZ;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Oui;Completel;Yes;Non;No;No;Oui;Oui;formal
-651;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Non;formal
-754;DZ;Male;25+;Never Mar;Urban;Higher;non manua;No;Secondary;Yes;Oui;Completel;Yes;Non;yes;yes;Oui;Non;formal
-374;TN;Female;25+;Ever Marr;Urban;Secondary;non manua;No;Primary;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2313;DZ;Male;25+;Never Mar;Urban;Secondary;manual t;Yes;Middle;Yes;Oui;Completel;Yes;Non;No;No;Non;Non;informal
-1269;EG;Male;20 - 24;Never Mar;Urban;Primary;manual t;No;Middle;No;Oui;Completel;Yes;Non;No;No;Non;Non;informal
-261;LB;Male;25+;Never Mar;Rural;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-752;DZ;Male;25+;Never Mar;Rural;Middle;non manua;No;Primary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-690;DZ;Male;25+;Never Mar;Urban;Higher;non manua;No;Middle;Yes;Oui;Completel;Yes;Non;No;yes;Oui;Oui;formal
-2787;LB;Male;25+;Ever Marr;Urban;Middle;non manua;No;Secondary;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1871;EG;Male;20 - 24;Ever Marr;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Oui;informal
-2187;DZ;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Primary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1805;DZ;Male;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Middle;No;Non;Completel;Yes;Non;No;No;Non;Non;informal
-2263;EG;Male;20 - 24;Ever Marr;Rural;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-854;DZ;Male;25+;Never Mar;Urban;Middle;non manua;No;No educati;No;Oui;Completel;Yes;Non;yes;yes;Non;Non;formal
-2274;EG;Male;20 - 24;Ever Marr;Urban;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-641;LB;Male;25+;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;No;Non;No;No;Non;Non;formal
-1292;LB;Male;<= 19;Never Mar;Rural;Higher;non manua;Yes;No educati;No;Non;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-2691;LB;Male;20 - 24;Never Mar;Rural;Higher;non manua;Yes;Primary;No;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-567;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;formal
-2305;TN;Female;25+;Ever Marr;Rural;No educati;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-436;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1768;LB;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-2785;TN;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Primary;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-1739;EG;Male;<= 19;Never Mar;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-511;TN;Male;25+;Never Mar;Urban;Higher;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-923;LB;Male;25+;Never Mar;Rural;Primary;manual t;Yes;No educati;Yes;Non;Not at al;No;Non;yes;No;Non;Non;formal
-114;LB;Female;25+;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;Yes;Non;No;yes;Non;Non;formal
-871;EG;Female;25+;Ever Marr;Rural;Secondary;non manua;No;Primary;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2037;EG;Male;25+;Never Mar;Rural;Primary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Non;informal
-1487;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-194;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;No educati;Yes;Oui;Completel;No;Non;yes;yes;Non;Non;formal
-315;DZ;Male;25+;Never Mar;Rural;Middle;non manua;Yes;Primary;Yes;Non;Completel;No;Non;yes;No;Non;Non;formal
-1716;LB;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;Yes;Non;Completel;No;Non;No;No;Non;Oui;informal
-1832;LB;Male;20 - 24;Never Mar;Rural;Higher;non manua;Yes;Primary;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-1389;EG;Male;<= 19;Never Mar;Rural;Primary;manual t;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2497;DZ;Male;20 - 24;Never Mar;Urban;Higher;manual t;No;Secondary;Yes;Non;Not at al;Yes;Non;No;yes;Oui;Oui;informal
-1712;TN;Male;25+;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2916;LB;Male;25+;Never Mar;Urban;Primary;manual t;No;No educati;No;Non;Not at al;No;Non;yes;No;Oui;Non;informal
-2761;LB;Female;25+;Ever Marr;Rural;Higher;non manua;No;Primary;No;Oui;Not at al;Yes;Non;yes;yes;Non;Non;informal
-2288;LB;Male;<= 19;Never Mar;Urban;Middle;non manua;Yes;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-204;LB;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;No;yes;Oui;Non;formal
-621;LB;Female;25+;Ever Marr;Rural;Higher;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1647;DZ;Female;25+;Never Mar;Urban;Higher;manual t;No;No educati;No;Non;Not at al;Yes;Non;yes;No;Non;Non;informal
-2204;TN;Male;<= 19;Never Mar;Rural;No educati;manual t;No;No educati;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-1342;LB;Male;<= 19;Never Mar;Urban;Middle;non manua;Yes;Secondary;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-246;LB;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2877;DZ;Male;25+;Never Mar;Rural;Middle;non manua;No;Secondary;Yes;Oui;Completel;No;Non;No;No;Non;Non;informal
-2287;TN;Male;25+;Never Mar;Rural;Primary;manual t;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2135;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;No educati;No;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-2370;DZ;Male;<= 19;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-1663;TN;Male;<= 19;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2299;EG;Male;25+;Never Mar;Rural;Middle;non manua;No;Middle;Yes;Oui;Not at al;Yes;Non;No;No;Oui;Oui;informal
-1688;TN;Female;25+;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1252;LB;Male;<= 19;Never Mar;Urban;Middle;non manua;No;Secondary;Yes;Non;Not at al;No;Non;yes;No;Non;Non;informal
-2667;DZ;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-160;LB;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2290;LB;Male;25+;Never Mar;Rural;Higher;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-2900;EG;Male;25+;Never Mar;Rural;Primary;non manua;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Non;informal
-866;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-703;EG;Male;25+;Ever Marr;Urban;Higher;non manua;No;Middle;Yes;Oui;Not at al;No;Non;No;yes;Non;Oui;formal
-864;EG;Female;25+;Never Mar;Urban;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-334;DZ;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2405;EG;Male;25+;Never Mar;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-276;LB;Female;25+;Never Mar;Urban;Higher;non manua;No;Middle;Yes;Non;Not at al;No;Non;No;yes;Oui;Non;formal
-361;DZ;Male;25+;Never Mar;Urban;Middle;manual t;Yes;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-746;EG;Male;<= 19;Never Mar;Rural;Primary;manual t;No;No educati;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1696;EG;Male;20 - 24;Never Mar;Urban;Primary;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1109;DZ;Female;<= 19;Never Mar;Urban;Secondary;manual t;No;Secondary;Yes;Non;Completel;Yes;Non;No;No;Oui;Oui;informal
-727;LB;Male;25+;Never Mar;Rural;Higher;non manua;Yes;Middle;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-35;LB;Female;25+;Ever Marr;Urban;Higher;non manua;No;Middle;Yes;Non;Not at al;Yes;Non;No;yes;Non;Non;formal
-2502;DZ;Male;<= 19;Never Mar;Rural;Middle;non manua;Yes;Primary;Yes;Non;Completel;No;Non;No;yes;Non;Non;informal
-526;TN;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-2824;LB;Male;20 - 24;Never Mar;Urban;Middle;non manua;Yes;Middle;No;Non;Not at al;No;Non;No;yes;Non;Non;informal
-596;TN;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Middle;Yes;Non;Not at al;No;Non;No;No;Non;Non;formal
-687;DZ;Male;25+;Ever Marr;Urban;Secondary;non manua;Yes;Primary;Yes;Oui;Completel;No;Non;yes;yes;Oui;Oui;formal
-1353;DZ;Male;<= 19;Never Mar;Rural;Middle;manual t;No;Middle;Yes;Non;Completel;No;Non;No;No;Non;Non;informal
-1058;LB;Male;25+;Never Mar;Rural;Middle;non manua;Yes;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-467;TN;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;No;yes;Oui;Non;formal
-1942;EG;Male;20 - 24;Ever Marr;Urban;Middle;non manua;No;No educati;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-414;DZ;Male;25+;Ever Marr;Rural;Higher;non manua;Yes;Primary;Yes;Oui;Completel;No;Non;yes;yes;Oui;Oui;formal
-2758;EG;Male;20 - 24;Ever Marr;Urban;Secondary;non manua;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-2244;DZ;Male;25+;Never Mar;Rural;Primary;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-1444;LB;Male;25+;Ever Marr;Rural;Secondary;manual t;No;Middle;No;Non;Not at al;No;Non;No;No;Oui;Non;informal
-834;LB;Male;20 - 24;Never Mar;Rural;Middle;non manua;Yes;Primary;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;formal
-235;DZ;Female;25+;Never Mar;Urban;Higher;non manua;Yes;No educati;Yes;Oui;Completel;No;Non;yes;yes;Oui;Oui;formal
-2702;DZ;Male;25+;Ever Marr;Rural;Secondary;manual t;No;Primary;No;Oui;Not at al;Yes;Non;yes;yes;Non;Oui;informal
-735;TN;Male;25+;Never Mar;Rural;Primary;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;formal
-2908;EG;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1597;TN;Female;20 - 24;Never Mar;Rural;Secondary;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-493;LB;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Non;formal
-1182;DZ;Male;20 - 24;Never Mar;Rural;Middle;non manua;No;No educati;No;Oui;Completel;No;Non;yes;yes;Oui;Oui;informal
-2272;LB;Male;25+;Ever Marr;Rural;Middle;manual t;No;Middle;No;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-1888;EG;Male;25+;Never Mar;Urban;Primary;non manua;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Non;informal
-1056;EG;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;No;Oui;Oui;informal
-224;TN;Female;25+;Never Mar;Rural;Primary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-257;EG;Male;25+;Ever Marr;Rural;Higher;non manua;No;Higher;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1814;TN;Male;20 - 24;Never Mar;Urban;Middle;manual t;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-945;DZ;Male;25+;Never Mar;Urban;Middle;non manua;Yes;Primary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1835;EG;Male;20 - 24;Ever Marr;Rural;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-475;DZ;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1736;LB;Male;25+;Ever Marr;Rural;Higher;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1275;TN;Female;25+;Ever Marr;Urban;No educati;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-460;DZ;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2563;TN;Male;25+;Never Mar;Rural;Middle;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1002;EG;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Oui;Non;informal
-78;EG;Female;25+;Ever Marr;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;No;yes;Non;Oui;formal
-734;DZ;Male;25+;Never Mar;Rural;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;formal
-2410;LB;Male;20 - 24;Never Mar;Rural;Higher;non manua;Yes;Secondary;No;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-398;TN;Male;20 - 24;Never Mar;Rural;Higher;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-2054;EG;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-259;LB;Female;25+;Never Mar;Rural;Higher;non manua;Yes;Primary;No;Non;Not at al;No;Non;yes;No;Non;Non;formal
-1428;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;Primary;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-1886;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;Secondary;Yes;Non;Not at al;No;Non;No;yes;Non;Non;informal
-1020;LB;Female;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1615;EG;Male;20 - 24;Never Mar;Urban;Primary;manual t;No;Secondary;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;informal
-1453;LB;Male;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Secondary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-539;TN;Male;20 - 24;Never Mar;Urban;Higher;manual t;No;Secondary;Yes;Oui;Not at al;Yes;Non;No;yes;Non;Non;formal
-1137;TN;Female;25+;Never Mar;Urban;Middle;non manua;No;Primary;No;Non;Not at al;No;Non;yes;No;Oui;Non;informal
-1026;EG;Male;20 - 24;Never Mar;Urban;Secondary;manual t;No;Primary;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-778;EG;Male;25+;Never Mar;Rural;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;formal
-1868;LB;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;No educati;No;Oui;Not at al;Yes;Non;No;No;Non;Oui;informal
-1358;EG;Male;25+;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-311;LB;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2384;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-609;DZ;Female;25+;Ever Marr;Rural;Higher;non manua;Yes;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;formal
-1244;EG;Male;25+;Never Mar;Rural;Higher;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2732;TN;Male;25+;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2222;DZ;Female;25+;Never Mar;Urban;Middle;non manua;No;Primary;Yes;Oui;Not at al;Yes;Non;No;No;Oui;Oui;informal
-535;TN;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Primary;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;formal
-1430;EG;Male;<= 19;Never Mar;Urban;Primary;non manua;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2837;TN;Male;25+;Never Mar;Urban;Middle;non manua;No;Primary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1178;EG;Female;25+;Ever Marr;Urban;Middle;manual t;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2972;DZ;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1047;EG;Male;25+;Ever Marr;Urban;Middle;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2696;TN;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-519;TN;Female;20 - 24;Never Mar;Urban;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Non;Oui;formal
-2844;DZ;Male;20 - 24;Never Mar;Urban;Primary;manual t;No;Secondary;No;Oui;Not at al;Yes;Non;No;No;Non;Non;informal
-2819;TN;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-978;EG;Male;<= 19;Never Mar;Rural;No educati;manual t;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1172;EG;Male;20 - 24;Never Mar;Urban;Higher;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-2982;EG;Male;<= 19;Never Mar;Urban;Secondary;non manua;No;Higher;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1687;EG;Male;20 - 24;Never Mar;Rural;Secondary;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Non;informal
-168;DZ;Female;20 - 24;Never Mar;Rural;Higher;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1418;DZ;Male;<= 19;Never Mar;Urban;Middle;non manua;Yes;Middle;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-965;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-583;LB;Female;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;No;Non;Not at al;Yes;Non;yes;yes;Oui;Non;formal
-1138;DZ;Female;<= 19;Never Mar;Rural;Middle;non manua;No;Middle;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1258;DZ;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Non;Completel;Yes;Non;No;No;Non;Non;informal
-413;LB;Male;25+;Never Mar;Rural;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2489;TN;Female;25+;Never Mar;Rural;Primary;manual t;No;Primary;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-1902;EG;Male;<= 19;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2395;TN;Male;<= 19;Never Mar;Urban;Primary;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-186;LB;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Middle;No;Non;Not at al;No;Non;No;yes;Oui;Oui;formal
-1280;TN;Female;20 - 24;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-461;LB;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Non;formal
-1578;DZ;Male;20 - 24;Never Mar;Rural;Higher;manual t;No;Primary;Yes;Non;Completel;No;Non;No;yes;Oui;Oui;informal
-2314;TN;Female;25+;Never Mar;Rural;Primary;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-910;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-720;EG;Male;25+;Ever Marr;Rural;No educati;non manua;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;formal
-2254;TN;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;Primary;Yes;Non;Not at al;No;Non;No;yes;Non;Non;informal
-2239;EG;Male;20 - 24;Never Mar;Urban;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-56;TN;Female;20 - 24;Never Mar;Rural;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-76;TN;Female;25+;Never Mar;Urban;Primary;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;formal
-2112;EG;Male;25+;Ever Marr;Urban;No educati;non manua;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1560;TN;Female;20 - 24;Never Mar;Rural;Secondary;manual t;No;Primary;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-1238;TN;Male;25+;Never Mar;Urban;Middle;manual t;No;Primary;No;Oui;Not at al;No;Non;yes;No;Non;Non;informal
-55;LB;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;formal
-2783;TN;Female;25+;Never Mar;Urban;Middle;non manua;No;Primary;No;Non;Not at al;Yes;Non;yes;No;Non;Non;informal
-1311;TN;Male;20 - 24;Never Mar;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-2665;DZ;Male;<= 19;Never Mar;Rural;Middle;non manua;No;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1658;EG;Male;25+;Never Mar;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;No;Non;No;No;Oui;Oui;informal
-141;LB;Female;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Non;Not at al;No;Non;No;yes;Oui;Oui;formal
-1872;EG;Female;20 - 24;Ever Marr;Rural;Secondary;manual t;No;No educati;No;Non;Not at al;No;Non;No;yes;Oui;Oui;informal
-680;DZ;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;No;yes;Oui;Oui;formal
-485;LB;Male;25+;Ever Marr;Urban;Secondary;non manua;No;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1513;TN;Female;20 - 24;Ever Marr;Urban;Secondary;non manua;No;Primary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-31;TN;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;No;yes;Oui;Oui;formal
-584;TN;Male;25+;Never Mar;Urban;Higher;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;formal
-855;DZ;Male;20 - 24;Never Mar;Rural;Middle;non manua;No;No educati;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-483;LB;Male;25+;Ever Marr;Urban;Higher;non manua;Yes;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-2310;DZ;Male;<= 19;Never Mar;Urban;Middle;non manua;Yes;Primary;Yes;Non;Completel;Yes;Non;No;No;Non;Non;informal
-1634;EG;Male;25+;Ever Marr;Urban;Secondary;manual t;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2940;EG;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-2047;DZ;Male;20 - 24;Never Mar;Rural;Primary;non manua;No;Primary;Yes;Non;Completel;Yes;Non;No;No;Non;Non;informal
-1603;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-406;TN;Male;25+;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;formal
-2358;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1220;EG;Male;25+;Ever Marr;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2542;DZ;Male;25+;Never Mar;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2132;EG;Male;<= 19;Never Mar;Urban;Secondary;manual t;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1643;DZ;Female;25+;Never Mar;Rural;Higher;manual t;No;No educati;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;informal
-496;DZ;Male;25+;Never Mar;Rural;Higher;non manua;No;No educati;Yes;Oui;Not at al;Yes;Non;No;No;Non;Non;formal
-1308;EG;Male;20 - 24;Ever Marr;Rural;Primary;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-701;EG;Female;25+;Ever Marr;Urban;Higher;manual t;No;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2597;DZ;Female;20 - 24;Never Mar;Urban;Primary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Non;informal
-2333;TN;Male;25+;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;No;Non;Non;informal
-269;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;No;Secondary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2863;TN;Female;20 - 24;Never Mar;Urban;Middle;non manua;No;Middle;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-79;DZ;Male;20 - 24;Never Mar;Urban;Middle;manual t;Yes;Secondary;Yes;Oui;Not at al;Yes;Non;No;yes;Oui;Oui;formal
-1939;DZ;Male;25+;Never Mar;Rural;Middle;non manua;No;No educati;Yes;Oui;Completel;Yes;Non;No;No;Non;Non;informal
-569;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Middle;Yes;Non;Not at al;No;Non;yes;yes;Oui;Non;formal
-1355;TN;Male;20 - 24;Never Mar;Urban;Higher;non manua;No;Primary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-83;LB;Female;25+;Ever Marr;Rural;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Non;formal
-1329;EG;Male;<= 19;Never Mar;Rural;Primary;non manua;No;No educati;No;Non;Not at al;No;Non;No;yes;Non;Non;informal
-395;LB;Female;20 - 24;Never Mar;Urban;Higher;manual t;Yes;Higher;Yes;Non;Not at al;No;Non;yes;yes;Non;Oui;formal
-2722;LB;Male;20 - 24;Never Mar;Urban;Higher;manual t;Yes;Primary;No;Non;Not at al;Yes;Non;yes;yes;Oui;Non;informal
-1845;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Oui;Oui;informal
-593;LB;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Primary;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;formal
-2183;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-1756;LB;Male;25+;Never Mar;Urban;Middle;non manua;Yes;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-86;DZ;Female;25+;Never Mar;Urban;Secondary;non manua;Yes;No educati;Yes;Oui;Not at al;Yes;Non;No;yes;Non;Non;formal
-1417;TN;Male;25+;Never Mar;Urban;Primary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2953;DZ;Male;<= 19;Never Mar;Urban;Secondary;manual t;No;Secondary;Yes;Non;Completel;Yes;Non;No;No;Non;Non;informal
-177;LB;Female;25+;Ever Marr;Urban;Higher;non manua;No;Middle;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-825;LB;Male;25+;Never Mar;Urban;Middle;manual t;Yes;Secondary;Yes;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-2413;EG;Female;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-154;TN;Male;25+;Never Mar;Urban;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-670;TN;Male;20 - 24;Never Mar;Rural;Middle;non manua;No;No educati;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2182;EG;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Primary;Yes;Non;Not at al;No;Non;No;No;Non;Non;informal
-1958;DZ;Male;20 - 24;Never Mar;Rural;Primary;manual t;No;Primary;No;Non;Completel;Yes;Non;No;yes;Oui;Oui;informal
-1785;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-903;LB;Male;20 - 24;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Non;Non;formal
-58;LB;Male;25+;Ever Marr;Rural;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-2219;EG;Male;25+;Ever Marr;Rural;Higher;non manua;No;Secondary;No;Oui;Not at al;No;Non;yes;No;Oui;Oui;informal
-2543;EG;Male;20 - 24;Never Mar;Urban;Primary;non manua;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-1211;LB;Female;25+;Ever Marr;Urban;Secondary;non manua;Yes;Primary;No;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-323;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Non;formal
-1322;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-1621;EG;Female;20 - 24;Never Mar;Rural;Higher;non manua;No;No educati;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2271;EG;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2129;EG;Male;20 - 24;Never Mar;Rural;Primary;manual t;No;Middle;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-1399;DZ;Male;<= 19;Never Mar;Urban;Secondary;manual t;No;Primary;Yes;Non;Completel;No;Non;yes;yes;Oui;Oui;informal
-1599;TN;Female;<= 19;Never Mar;Urban;Secondary;non manua;No;Middle;Yes;Non;Not at al;No;Non;yes;No;Oui;Non;informal
-2259;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-326;EG;Female;25+;Never Mar;Urban;Secondary;non manua;No;No educati;Yes;Oui;Not at al;No;Non;No;yes;Non;Non;formal
-1998;TN;Female;25+;Never Mar;Urban;Higher;manual t;No;Secondary;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-1210;LB;Male;<= 19;Never Mar;Urban;Middle;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-1773;LB;Female;20 - 24;Never Mar;Urban;Middle;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-518;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Non;formal
-763;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Non;formal
-1052;TN;Male;<= 19;Never Mar;Rural;Middle;non manua;No;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2363;TN;Male;20 - 24;Never Mar;Urban;Primary;manual t;No;Primary;Yes;Non;Not at al;Yes;Non;No;yes;Non;Non;informal
-459;LB;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Secondary;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-1559;EG;Female;<= 19;Ever Marr;Rural;Secondary;non manua;No;Middle;Yes;Non;Not at al;No;Non;No;No;Oui;Oui;informal
-2140;LB;Male;25+;Ever Marr;Urban;Middle;non manua;Yes;No educati;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2971;LB;Male;20 - 24;Never Mar;Urban;Middle;non manua;No;Primary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1351;TN;Male;25+;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Non;Not at al;No;Non;yes;yes;Non;Oui;informal
-1626;EG;Male;20 - 24;Never Mar;Rural;No educati;manual t;No;No educati;No;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-1021;DZ;Male;<= 19;Never Mar;Urban;Middle;manual t;No;Primary;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-386;EG;Male;25+;Never Mar;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;No;No;Oui;Oui;formal
-2639;EG;Male;25+;Ever Marr;Rural;Higher;non manua;No;No educati;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2010;TN;Male;25+;Never Mar;Urban;Primary;non manua;No;Primary;Yes;Oui;Not at al;No;Non;No;No;Non;Non;informal
-2300;EG;Male;20 - 24;Never Mar;Urban;Primary;non manua;No;Primary;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-2281;EG;Male;25+;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-336;LB;Male;25+;Never Mar;Urban;Higher;manual t;No;Middle;Yes;Non;Not at al;No;Non;No;yes;Non;Non;formal
-652;EG;Female;25+;Never Mar;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;No;Non;No;No;Non;Non;formal
-1830;EG;Male;20 - 24;Ever Marr;Rural;Secondary;manual t;No;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2743;EG;Female;<= 19;Never Mar;Urban;Middle;manual t;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2295;LB;Male;25+;Ever Marr;Urban;Higher;manual t;No;Higher;No;Non;Not at al;Yes;Non;yes;yes;Oui;Non;informal
-890;TN;Male;25+;Never Mar;Urban;Higher;non manua;No;Middle;Yes;Oui;Not at al;Yes;Non;No;yes;Non;Non;formal
-2871;TN;Male;<= 19;Never Mar;Urban;Secondary;non manua;Yes;Secondary;Yes;Non;Not at al;Yes;Non;yes;No;Non;Oui;informal
-248;TN;Female;25+;Ever Marr;Urban;Higher;non manua;No;Middle;Yes;Oui;Not at al;No;Non;yes;yes;Non;Non;formal
-738;DZ;Male;20 - 24;Never Mar;Urban;Higher;non manua;No;Higher;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2492;TN;Male;25+;Never Mar;Urban;Primary;non manua;No;Middle;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;informal
-2561;EG;Male;<= 19;Never Mar;Rural;Middle;manual t;No;No educati;No;Oui;Not at al;No;Non;yes;No;Oui;Oui;informal
-2809;LB;Female;<= 19;Never Mar;Urban;Middle;manual t;Yes;Secondary;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-2007;EG;Male;20 - 24;Never Mar;Rural;Secondary;manual t;No;No educati;No;Oui;Not at al;No;Non;No;yes;Oui;Oui;informal
-1276;LB;Male;20 - 24;Ever Marr;Urban;Middle;non manua;No;Middle;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-2525;DZ;Male;<= 19;Never Mar;Rural;Middle;manual t;No;No educati;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-96;DZ;Female;20 - 24;Never Mar;Rural;Middle;non manua;No;Secondary;Yes;Non;Completel;Yes;Non;No;yes;Non;Non;formal
-2452;LB;Female;25+;Ever Marr;Urban;Middle;non manua;No;Middle;No;Non;Not at al;No;Non;yes;No;Non;Non;informal
-2428;LB;Male;25+;Never Mar;Rural;Middle;manual t;Yes;Primary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Non;informal
-909;EG;Male;25+;Ever Marr;Rural;Primary;non manua;No;Primary;No;Oui;Not at al;No;Non;No;No;Oui;Non;formal
-2168;DZ;Male;25+;Never Mar;Urban;Primary;non manua;No;Secondary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-1664;EG;Male;25+;Ever Marr;Rural;Secondary;manual t;No;No educati;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-516;DZ;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;Yes;Oui;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-125;LB;Male;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Primary;No;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;formal
-2297;LB;Male;<= 19;Never Mar;Rural;Primary;non manua;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Oui;informal
-399;EG;Female;20 - 24;Ever Marr;Rural;Higher;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;No;yes;Oui;Oui;formal
-2378;TN;Male;20 - 24;Never Mar;Urban;Secondary;non manua;No;Secondary;Yes;Oui;Not at al;No;Non;yes;yes;Oui;Non;informal
-2689;EG;Female;<= 19;Ever Marr;Rural;Secondary;non manua;No;No educati;No;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-1706;LB;Male;<= 19;Never Mar;Urban;Primary;non manua;Yes;Secondary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
-1893;EG;Male;25+;Ever Marr;Rural;Secondary;non manua;No;No educati;No;Oui;Not at al;No;Non;No;No;Non;Non;informal
-325;LB;Female;25+;Ever Marr;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;yes;yes;Non;Non;formal
-1777;EG;Female;20 - 24;Never Mar;Urban;Higher;non manua;No;Secondary;No;Oui;Not at al;No;Non;yes;yes;Non;Non;informal
-904;DZ;Male;25+;Never Mar;Rural;Secondary;non manua;No;Secondary;Yes;Oui;Completel;Yes;Non;yes;yes;Oui;Oui;formal
-469;LB;Male;25+;Never Mar;Urban;Secondary;non manua;No;Primary;No;Oui;Not at al;Yes;Non;yes;yes;Non;Non;formal
-528;DZ;Female;25+;Never Mar;Urban;Higher;non manua;No;Primary;No;Oui;Not at al;No;Non;yes;yes;Oui;Oui;formal
-1919;TN;Male;<= 19;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Non;Not at al;Yes;Non;yes;yes;Oui;Oui;informal
-1123;EG;Female;20 - 24;Never Mar;Urban;Higher;non manua;Yes;Higher;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;informal
-453;LB;Male;25+;Never Mar;Urban;Secondary;manual t;No;Secondary;Yes;Non;Not at al;Yes;Non;No;No;Non;Non;formal
-2131;LB;Male;25+;Ever Marr;Rural;Higher;non manua;Yes;Higher;No;Non;Not at al;Yes;Non;yes;yes;Non;Oui;informal
-556;TN;Male;25+;Never Mar;Urban;Higher;non manua;Yes;Secondary;Yes;Non;Not at al;No;Non;yes;yes;Oui;Oui;formal
-900;DZ;Male;20 - 24;Never Mar;Urban;Middle;manual t;No;Primary;Yes;Oui;Not at al;No;Non;No;yes;Non;Non;formal
-2429;LB;Male;25+;Never Mar;Urban;Secondary;non manua;Yes;Middle;No;Non;Not at al;No;Non;yes;yes;Non;Non;informal
-2876;LB;Male;25+;Never Mar;Urban;Primary;non manua;No;Primary;No;Non;Not at al;No;Non;No;No;Non;Non;informal
+Unnamed: 0,country,Gender,Age,Marital status,Stratum Urban,HM25_1,Natur of work,Level of Wealth,Fathers level education,Parent_affiliated_with Social Security,Participation in elections,Freedom to speach out about government,Resort to nepotism,Trust in Parliment,Trust in employers,Trust in associations,Trust in political_parties,Political system,Formality
+1812,TN,Male,<= 19,Never Mar,Rural,Middle,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1504,EG,Female,25+,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1259,EG,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1571,LB,Male,<= 19,Never Mar,Rural,Primary,non manua,No,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2715,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,No educati,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1127,LB,Male,25+,Never Mar,Rural,Secondary,manual t,Yes,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+197,TN,Male,25+,Ever Marr,Urban,Secondary,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,yes,Oui,Non,formal
+536,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,Primary,Yes,Oui,Completel,Yes,Non,No,No,Non,Non,formal
+1717,LB,Male,25+,Never Mar,Rural,Higher,manual t,Yes,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+213,LB,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Non,formal
+839,LB,Female,25+,Ever Marr,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Oui,formal
+1642,EG,Male,<= 19,Never Mar,Urban,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+1206,LB,Female,25+,Never Mar,Rural,Higher,manual t,Yes,Middle,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2375,DZ,Female,<= 19,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2815,TN,Male,25+,Ever Marr,Urban,Secondary,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2217,TN,Female,25+,Ever Marr,Urban,Higher,manual t,No,Middle,No,Oui,Not at al,No,Non,No,No,Oui,Oui,informal
+2692,EG,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,Secondary,Yes,Non,Not at al,No,Non,No,No,Oui,Oui,informal
+1099,TN,Male,<= 19,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Oui,informal
+2957,LB,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+50,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+127,LB,Male,25+,Ever Marr,Urban,Higher,non manua,No,Middle,Yes,Oui,Not at al,Yes,Non,No,yes,Oui,Non,formal
+65,LB,Female,20 - 24,Ever Marr,Urban,Higher,non manua,Yes,Primary,No,Non,Not at al,No,Non,yes,yes,Non,Oui,formal
+203,EG,Male,25+,Ever Marr,Rural,Higher,non manua,No,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1851,LB,Male,<= 19,Never Mar,Rural,Middle,manual t,No,Middle,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+1627,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+2444,LB,Female,25+,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+1598,EG,Female,20 - 24,Never Mar,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+542,EG,Male,20 - 24,Ever Marr,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+921,EG,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+632,EG,Female,25+,Ever Marr,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,yes,Non,Non,formal
+1685,EG,Male,25+,Never Mar,Rural,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+886,EG,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,No,Oui,Oui,formal
+1507,TN,Female,25+,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1979,DZ,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1572,LB,Female,25+,Ever Marr,Rural,Middle,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2913,LB,Male,25+,Never Mar,Urban,Secondary,manual t,No,Middle,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+1414,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+486,LB,Female,25+,Never Mar,Urban,Middle,non manua,Yes,Middle,No,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+1004,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,Primary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1595,TN,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Non,Not at al,No,Non,yes,No,Non,Non,informal
+2327,EG,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,Primary,Yes,Oui,Not at al,No,Non,No,yes,Non,Non,informal
+289,TN,Female,25+,Never Mar,Urban,No educati,non manua,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,formal
+1370,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Primary,Yes,Non,Not at al,Yes,Non,No,yes,Non,Non,informal
+2970,LB,Male,<= 19,Never Mar,Urban,Primary,non manua,No,Middle,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+106,LB,Female,25+,Ever Marr,Urban,Secondary,manual t,No,Primary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1036,TN,Female,25+,Ever Marr,Urban,Higher,non manua,No,Primary,Yes,Non,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+2801,TN,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,Yes,Oui,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+2540,TN,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,Yes,Non,yes,No,Oui,Oui,informal
+1657,TN,Male,25+,Never Mar,Rural,Secondary,manual t,No,Primary,Yes,Oui,Not at al,No,Non,yes,No,Oui,Oui,informal
+1457,DZ,Male,25+,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Non,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+2093,TN,Male,<= 19,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Non,Completel,No,Non,yes,yes,Oui,Oui,informal
+788,DZ,Male,25+,Never Mar,Urban,Higher,non manua,No,Higher,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+762,DZ,Male,25+,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1838,EG,Male,<= 19,Never Mar,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2660,LB,Male,<= 19,Never Mar,Urban,Middle,non manua,No,Primary,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+2266,DZ,Male,25+,Never Mar,Rural,Primary,manual t,No,Primary,No,Non,Completel,No,Non,No,No,Non,Non,informal
+695,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,No,Oui,Oui,formal
+554,DZ,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,No educati,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,formal
+591,LB,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1605,TN,Male,20 - 24,Never Mar,Urban,Middle,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+2521,LB,Female,25+,Ever Marr,Urban,Middle,manual t,No,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+733,DZ,Male,20 - 24,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Non,Completel,Yes,Non,No,yes,Oui,Oui,formal
+2941,DZ,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+265,LB,Female,25+,Ever Marr,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,formal
+952,DZ,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2430,EG,Male,<= 19,Never Mar,Urban,Primary,manual t,No,No educati,No,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+2398,TN,Female,20 - 24,Never Mar,Urban,Secondary,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+2739,TN,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2771,EG,Male,25+,Ever Marr,Rural,Primary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1390,EG,Male,<= 19,Never Mar,Rural,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+1580,EG,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1205,EG,Male,<= 19,Never Mar,Rural,Middle,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,No,Oui,Non,informal
+2788,LB,Female,<= 19,Never Mar,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+1032,LB,Male,25+,Never Mar,Urban,Secondary,non manua,No,No educati,No,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+1949,TN,Female,20 - 24,Never Mar,Urban,Higher,manual t,No,Primary,Yes,Oui,Not at al,Yes,Non,No,No,Oui,Oui,informal
+2235,EG,Male,25+,Ever Marr,Urban,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+284,LB,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Oui,Not at al,No,Non,No,yes,Non,Non,formal
+488,DZ,Male,25+,Never Mar,Urban,Secondary,manual t,Yes,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+972,DZ,Female,20 - 24,Never Mar,Urban,Middle,manual t,No,Middle,Yes,Non,Completel,No,Non,No,No,Non,Non,informal
+1198,EG,Male,25+,Never Mar,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1263,DZ,Male,25+,Never Mar,Urban,Primary,manual t,No,No educati,No,Non,Completel,No,Non,yes,yes,Oui,Oui,informal
+2605,TN,Male,25+,Never Mar,Rural,Higher,manual t,No,No answer,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+2566,TN,Female,25+,Never Mar,Urban,Middle,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,No,Oui,Oui,informal
+2713,TN,Female,25+,Never Mar,Rural,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,No,yes,Non,Non,informal
+282,TN,Male,25+,Never Mar,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+731,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+2236,TN,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,No,Oui,Oui,informal
+1449,LB,Male,<= 19,Never Mar,Rural,Middle,manual t,Yes,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2487,EG,Male,25+,Never Mar,Rural,Higher,manual t,No,Secondary,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+357,EG,Male,20 - 24,Ever Marr,Rural,Secondary,non manua,No,Primary,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2032,LB,Female,25+,Ever Marr,Rural,Higher,non manua,Yes,Higher,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2601,EG,Male,20 - 24,Never Mar,Rural,Primary,manual t,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1394,DZ,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+51,DZ,Male,20 - 24,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Non,Completel,No,Non,No,No,Non,Non,formal
+1867,EG,Male,25+,Never Mar,Urban,Higher,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Non,Oui,informal
+1209,DZ,Male,25+,Never Mar,Urban,Middle,manual t,Yes,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2403,LB,Female,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+2180,LB,Male,25+,Never Mar,Rural,Primary,non manua,No,Middle,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1963,EG,Male,25+,Ever Marr,Rural,Middle,non manua,No,Secondary,Yes,Oui,Not at al,Yes,Non,No,yes,Non,Oui,informal
+1776,EG,Female,25+,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+994,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,Secondary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1232,TN,Male,25+,Never Mar,Urban,Primary,manual t,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+914,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+504,DZ,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,No educati,Yes,Oui,Completel,No,Non,yes,yes,Oui,Oui,formal
+780,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+473,DZ,Female,25+,Never Mar,Urban,Middle,manual t,No,Middle,Yes,Oui,Not at al,Yes,Non,yes,No,Non,Non,formal
+2350,DZ,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Middle,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2371,TN,Female,20 - 24,Never Mar,Rural,Primary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+589,TN,Male,25+,Ever Marr,Urban,Primary,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,yes,Oui,Oui,formal
+840,DZ,Male,25+,Ever Marr,Urban,Secondary,non manua,No,Middle,Yes,Oui,Completel,No,Non,yes,yes,Oui,Non,formal
+2012,EG,Male,25+,Never Mar,Urban,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2695,LB,Male,<= 19,Never Mar,Urban,Primary,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+568,LB,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Secondary,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1435,DZ,Male,<= 19,Never Mar,Rural,Primary,manual t,No,No educati,No,Non,Completel,No,Non,No,yes,Oui,Oui,informal
+2858,DZ,Male,<= 19,Never Mar,Urban,Middle,manual t,Yes,Middle,Yes,Non,Completel,No,Non,No,No,Oui,Oui,informal
+1859,EG,Male,25+,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1267,LB,Male,20 - 24,Never Mar,Rural,Middle,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+2593,DZ,Male,25+,Never Mar,Urban,Middle,non manua,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1423,TN,Female,<= 19,Never Mar,Urban,Middle,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+331,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,formal
+1462,EG,Male,20 - 24,Ever Marr,Rural,No educati,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1676,DZ,Female,20 - 24,Never Mar,Urban,Secondary,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+1508,EG,Male,20 - 24,Never Mar,Rural,Higher,manual t,No,Middle,Yes,Oui,Completel,No,Non,No,yes,Non,Non,informal
+933,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,No,Non,Non,formal
+2434,LB,Male,20 - 24,Never Mar,Rural,Primary,non manua,No,No educati,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1944,LB,Female,25+,Never Mar,Urban,Secondary,non manua,No,Primary,No,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+2064,TN,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,No educati,Yes,Non,Not at al,Yes,Non,yes,No,Non,Non,informal
+153,DZ,Male,25+,Never Mar,Urban,Primary,non manua,Yes,No educati,Yes,Non,Completel,Yes,Non,No,No,Oui,Oui,formal
+1542,EG,Male,20 - 24,Ever Marr,Rural,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+793,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,formal
+463,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,formal
+688,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+491,EG,Male,25+,Ever Marr,Rural,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2165,LB,Female,25+,Never Mar,Urban,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,No,yes,Non,Non,informal
+1080,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1288,TN,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2225,DZ,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,Secondary,Yes,Non,Completel,Yes,Non,No,yes,Non,Non,informal
+1468,EG,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,Secondary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+1796,EG,Male,25+,Ever Marr,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+1404,DZ,Female,25+,Ever Marr,Urban,Primary,non manua,No,No educati,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+110,LB,Male,20 - 24,Ever Marr,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+364,DZ,Male,25+,Ever Marr,Urban,Middle,manual t,No,No educati,Yes,Non,Completel,Yes,Non,No,No,Non,Non,formal
+558,LB,Female,25+,Never Mar,Rural,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+543,TN,Female,25+,Ever Marr,Urban,Higher,non manua,No,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,formal
+281,TN,Female,25+,Ever Marr,Urban,Secondary,non manua,No,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1735,DZ,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,Primary,No,Oui,Completel,Yes,Non,yes,No,Non,Non,informal
+1764,TN,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2116,DZ,Male,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+2467,DZ,Male,25+,Never Mar,Urban,Middle,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Non,informal
+1226,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,Secondary,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+633,EG,Male,25+,Ever Marr,Urban,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Oui,Non,formal
+1300,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2334,TN,Male,25+,Never Mar,Urban,Middle,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2939,LB,Male,25+,Ever Marr,Rural,Higher,non manua,Yes,Primary,No,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+1230,TN,Female,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2655,EG,Male,25+,Never Mar,Urban,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+268,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+1153,EG,Male,25+,Never Mar,Urban,Secondary,manual t,No,Middle,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1296,TN,Female,<= 19,Never Mar,Urban,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1063,LB,Male,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Secondary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+2964,EG,Male,20 - 24,Never Mar,Rural,Primary,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+534,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2531,TN,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,Primary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+912,TN,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,No,yes,Non,Non,formal
+1526,LB,Male,25+,Never Mar,Rural,Higher,manual t,Yes,Secondary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2912,EG,Male,25+,Never Mar,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,No,No,Oui,Non,informal
+1502,DZ,Male,20 - 24,Never Mar,Urban,Higher,manual t,Yes,Primary,Yes,Oui,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+1461,EG,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2163,TN,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+842,LB,Male,25+,Ever Marr,Urban,Middle,non manua,No,No educati,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1463,EG,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,Middle,No,Oui,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+1393,EG,Female,20 - 24,Never Mar,Rural,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1641,EG,Male,25+,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+977,EG,Male,25+,Never Mar,Urban,Secondary,manual t,No,Higher,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1170,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+498,LB,Female,25+,Never Mar,Rural,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,Yes,Non,No,yes,Non,Non,formal
+968,DZ,Male,20 - 24,Never Mar,Urban,Middle,non manua,Yes,No educati,No,Oui,Completel,Yes,Non,yes,yes,Oui,Oui,informal
+1268,DZ,Male,25+,Never Mar,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+1055,EG,Female,25+,Never Mar,Urban,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2088,LB,Male,<= 19,Never Mar,Urban,Middle,manual t,No,Secondary,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+1476,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,Middle,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2534,LB,Male,20 - 24,Never Mar,Urban,Middle,non manua,Yes,No educati,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+2479,LB,Male,25+,Never Mar,Urban,Middle,non manua,Yes,No educati,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+275,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+191,DZ,Male,20 - 24,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Oui,Completel,No,Non,No,No,Non,Non,formal
+1272,LB,Male,<= 19,Never Mar,Rural,Middle,non manua,No,Middle,No,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+238,LB,Female,25+,Ever Marr,Urban,Middle,non manua,No,Middle,No,Non,Not at al,Yes,Non,No,No,Non,Non,formal
+1522,LB,Male,20 - 24,Never Mar,Urban,Primary,non manua,No,Higher,Yes,Non,Not at al,No,Non,No,yes,Non,Non,informal
+221,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Non,formal
+2880,LB,Female,20 - 24,Never Mar,Urban,Higher,manual t,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2986,DZ,Male,20 - 24,Never Mar,Rural,No educati,manual t,No,No educati,No,Oui,Completel,Yes,Non,yes,yes,Non,Non,informal
+2351,EG,Male,25+,Ever Marr,Urban,Secondary,non manua,No,Primary,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,informal
+237,EG,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,formal
+1644,TN,Male,25+,Never Mar,Urban,Secondary,manual t,No,Primary,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+1350,LB,Female,20 - 24,Ever Marr,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+970,TN,Female,25+,Never Mar,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,No,Oui,Oui,informal
+1181,EG,Male,25+,Never Mar,Rural,Higher,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1338,LB,Male,25+,Ever Marr,Urban,Middle,non manua,Yes,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+889,DZ,Male,25+,Ever Marr,Rural,Middle,non manua,No,Primary,No,Oui,Not at al,Yes,Non,yes,No,Oui,Oui,formal
+2707,LB,Male,25+,Never Mar,Urban,Middle,manual t,No,Middle,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+798,DZ,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Oui,Completel,Yes,Non,No,No,Oui,Oui,formal
+651,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Non,formal
+754,DZ,Male,25+,Never Mar,Urban,Higher,non manua,No,Secondary,Yes,Oui,Completel,Yes,Non,yes,yes,Oui,Non,formal
+374,TN,Female,25+,Ever Marr,Urban,Secondary,non manua,No,Primary,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2313,DZ,Male,25+,Never Mar,Urban,Secondary,manual t,Yes,Middle,Yes,Oui,Completel,Yes,Non,No,No,Non,Non,informal
+1269,EG,Male,20 - 24,Never Mar,Urban,Primary,manual t,No,Middle,No,Oui,Completel,Yes,Non,No,No,Non,Non,informal
+261,LB,Male,25+,Never Mar,Rural,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+752,DZ,Male,25+,Never Mar,Rural,Middle,non manua,No,Primary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+690,DZ,Male,25+,Never Mar,Urban,Higher,non manua,No,Middle,Yes,Oui,Completel,Yes,Non,No,yes,Oui,Oui,formal
+2787,LB,Male,25+,Ever Marr,Urban,Middle,non manua,No,Secondary,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1871,EG,Male,20 - 24,Ever Marr,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Oui,informal
+2187,DZ,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Primary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1805,DZ,Male,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Middle,No,Non,Completel,Yes,Non,No,No,Non,Non,informal
+2263,EG,Male,20 - 24,Ever Marr,Rural,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+854,DZ,Male,25+,Never Mar,Urban,Middle,non manua,No,No educati,No,Oui,Completel,Yes,Non,yes,yes,Non,Non,formal
+2274,EG,Male,20 - 24,Ever Marr,Urban,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+641,LB,Male,25+,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,No,Non,No,No,Non,Non,formal
+1292,LB,Male,<= 19,Never Mar,Rural,Higher,non manua,Yes,No educati,No,Non,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+2691,LB,Male,20 - 24,Never Mar,Rural,Higher,non manua,Yes,Primary,No,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+567,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,formal
+2305,TN,Female,25+,Ever Marr,Rural,No educati,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+436,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1768,LB,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+2785,TN,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Primary,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+1739,EG,Male,<= 19,Never Mar,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+511,TN,Male,25+,Never Mar,Urban,Higher,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+923,LB,Male,25+,Never Mar,Rural,Primary,manual t,Yes,No educati,Yes,Non,Not at al,No,Non,yes,No,Non,Non,formal
+114,LB,Female,25+,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,Yes,Non,No,yes,Non,Non,formal
+871,EG,Female,25+,Ever Marr,Rural,Secondary,non manua,No,Primary,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2037,EG,Male,25+,Never Mar,Rural,Primary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Non,informal
+1487,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+194,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,No educati,Yes,Oui,Completel,No,Non,yes,yes,Non,Non,formal
+315,DZ,Male,25+,Never Mar,Rural,Middle,non manua,Yes,Primary,Yes,Non,Completel,No,Non,yes,No,Non,Non,formal
+1716,LB,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,Yes,Non,Completel,No,Non,No,No,Non,Oui,informal
+1832,LB,Male,20 - 24,Never Mar,Rural,Higher,non manua,Yes,Primary,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+1389,EG,Male,<= 19,Never Mar,Rural,Primary,manual t,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2497,DZ,Male,20 - 24,Never Mar,Urban,Higher,manual t,No,Secondary,Yes,Non,Not at al,Yes,Non,No,yes,Oui,Oui,informal
+1712,TN,Male,25+,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2916,LB,Male,25+,Never Mar,Urban,Primary,manual t,No,No educati,No,Non,Not at al,No,Non,yes,No,Oui,Non,informal
+2761,LB,Female,25+,Ever Marr,Rural,Higher,non manua,No,Primary,No,Oui,Not at al,Yes,Non,yes,yes,Non,Non,informal
+2288,LB,Male,<= 19,Never Mar,Urban,Middle,non manua,Yes,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+204,LB,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,No,yes,Oui,Non,formal
+621,LB,Female,25+,Ever Marr,Rural,Higher,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1647,DZ,Female,25+,Never Mar,Urban,Higher,manual t,No,No educati,No,Non,Not at al,Yes,Non,yes,No,Non,Non,informal
+2204,TN,Male,<= 19,Never Mar,Rural,No educati,manual t,No,No educati,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+1342,LB,Male,<= 19,Never Mar,Urban,Middle,non manua,Yes,Secondary,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+246,LB,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2877,DZ,Male,25+,Never Mar,Rural,Middle,non manua,No,Secondary,Yes,Oui,Completel,No,Non,No,No,Non,Non,informal
+2287,TN,Male,25+,Never Mar,Rural,Primary,manual t,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2135,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,No educati,No,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+2370,DZ,Male,<= 19,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+1663,TN,Male,<= 19,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2299,EG,Male,25+,Never Mar,Rural,Middle,non manua,No,Middle,Yes,Oui,Not at al,Yes,Non,No,No,Oui,Oui,informal
+1688,TN,Female,25+,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1252,LB,Male,<= 19,Never Mar,Urban,Middle,non manua,No,Secondary,Yes,Non,Not at al,No,Non,yes,No,Non,Non,informal
+2667,DZ,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+160,LB,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2290,LB,Male,25+,Never Mar,Rural,Higher,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+2900,EG,Male,25+,Never Mar,Rural,Primary,non manua,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Non,informal
+866,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+703,EG,Male,25+,Ever Marr,Urban,Higher,non manua,No,Middle,Yes,Oui,Not at al,No,Non,No,yes,Non,Oui,formal
+864,EG,Female,25+,Never Mar,Urban,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+334,DZ,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2405,EG,Male,25+,Never Mar,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+276,LB,Female,25+,Never Mar,Urban,Higher,non manua,No,Middle,Yes,Non,Not at al,No,Non,No,yes,Oui,Non,formal
+361,DZ,Male,25+,Never Mar,Urban,Middle,manual t,Yes,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+746,EG,Male,<= 19,Never Mar,Rural,Primary,manual t,No,No educati,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1696,EG,Male,20 - 24,Never Mar,Urban,Primary,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1109,DZ,Female,<= 19,Never Mar,Urban,Secondary,manual t,No,Secondary,Yes,Non,Completel,Yes,Non,No,No,Oui,Oui,informal
+727,LB,Male,25+,Never Mar,Rural,Higher,non manua,Yes,Middle,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+35,LB,Female,25+,Ever Marr,Urban,Higher,non manua,No,Middle,Yes,Non,Not at al,Yes,Non,No,yes,Non,Non,formal
+2502,DZ,Male,<= 19,Never Mar,Rural,Middle,non manua,Yes,Primary,Yes,Non,Completel,No,Non,No,yes,Non,Non,informal
+526,TN,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+2824,LB,Male,20 - 24,Never Mar,Urban,Middle,non manua,Yes,Middle,No,Non,Not at al,No,Non,No,yes,Non,Non,informal
+596,TN,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Middle,Yes,Non,Not at al,No,Non,No,No,Non,Non,formal
+687,DZ,Male,25+,Ever Marr,Urban,Secondary,non manua,Yes,Primary,Yes,Oui,Completel,No,Non,yes,yes,Oui,Oui,formal
+1353,DZ,Male,<= 19,Never Mar,Rural,Middle,manual t,No,Middle,Yes,Non,Completel,No,Non,No,No,Non,Non,informal
+1058,LB,Male,25+,Never Mar,Rural,Middle,non manua,Yes,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+467,TN,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,No,yes,Oui,Non,formal
+1942,EG,Male,20 - 24,Ever Marr,Urban,Middle,non manua,No,No educati,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+414,DZ,Male,25+,Ever Marr,Rural,Higher,non manua,Yes,Primary,Yes,Oui,Completel,No,Non,yes,yes,Oui,Oui,formal
+2758,EG,Male,20 - 24,Ever Marr,Urban,Secondary,non manua,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+2244,DZ,Male,25+,Never Mar,Rural,Primary,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+1444,LB,Male,25+,Ever Marr,Rural,Secondary,manual t,No,Middle,No,Non,Not at al,No,Non,No,No,Oui,Non,informal
+834,LB,Male,20 - 24,Never Mar,Rural,Middle,non manua,Yes,Primary,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,formal
+235,DZ,Female,25+,Never Mar,Urban,Higher,non manua,Yes,No educati,Yes,Oui,Completel,No,Non,yes,yes,Oui,Oui,formal
+2702,DZ,Male,25+,Ever Marr,Rural,Secondary,manual t,No,Primary,No,Oui,Not at al,Yes,Non,yes,yes,Non,Oui,informal
+735,TN,Male,25+,Never Mar,Rural,Primary,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,formal
+2908,EG,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1597,TN,Female,20 - 24,Never Mar,Rural,Secondary,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+493,LB,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Non,formal
+1182,DZ,Male,20 - 24,Never Mar,Rural,Middle,non manua,No,No educati,No,Oui,Completel,No,Non,yes,yes,Oui,Oui,informal
+2272,LB,Male,25+,Ever Marr,Rural,Middle,manual t,No,Middle,No,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+1888,EG,Male,25+,Never Mar,Urban,Primary,non manua,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Non,informal
+1056,EG,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,No,Oui,Oui,informal
+224,TN,Female,25+,Never Mar,Rural,Primary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+257,EG,Male,25+,Ever Marr,Rural,Higher,non manua,No,Higher,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1814,TN,Male,20 - 24,Never Mar,Urban,Middle,manual t,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+945,DZ,Male,25+,Never Mar,Urban,Middle,non manua,Yes,Primary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1835,EG,Male,20 - 24,Ever Marr,Rural,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+475,DZ,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1736,LB,Male,25+,Ever Marr,Rural,Higher,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1275,TN,Female,25+,Ever Marr,Urban,No educati,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+460,DZ,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2563,TN,Male,25+,Never Mar,Rural,Middle,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1002,EG,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Oui,Non,informal
+78,EG,Female,25+,Ever Marr,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,No,yes,Non,Oui,formal
+734,DZ,Male,25+,Never Mar,Rural,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,formal
+2410,LB,Male,20 - 24,Never Mar,Rural,Higher,non manua,Yes,Secondary,No,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+398,TN,Male,20 - 24,Never Mar,Rural,Higher,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+2054,EG,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+259,LB,Female,25+,Never Mar,Rural,Higher,non manua,Yes,Primary,No,Non,Not at al,No,Non,yes,No,Non,Non,formal
+1428,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,Primary,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+1886,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,Secondary,Yes,Non,Not at al,No,Non,No,yes,Non,Non,informal
+1020,LB,Female,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1615,EG,Male,20 - 24,Never Mar,Urban,Primary,manual t,No,Secondary,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,informal
+1453,LB,Male,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Secondary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+539,TN,Male,20 - 24,Never Mar,Urban,Higher,manual t,No,Secondary,Yes,Oui,Not at al,Yes,Non,No,yes,Non,Non,formal
+1137,TN,Female,25+,Never Mar,Urban,Middle,non manua,No,Primary,No,Non,Not at al,No,Non,yes,No,Oui,Non,informal
+1026,EG,Male,20 - 24,Never Mar,Urban,Secondary,manual t,No,Primary,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+778,EG,Male,25+,Never Mar,Rural,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,formal
+1868,LB,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,No educati,No,Oui,Not at al,Yes,Non,No,No,Non,Oui,informal
+1358,EG,Male,25+,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+311,LB,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2384,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+609,DZ,Female,25+,Ever Marr,Rural,Higher,non manua,Yes,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,formal
+1244,EG,Male,25+,Never Mar,Rural,Higher,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2732,TN,Male,25+,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2222,DZ,Female,25+,Never Mar,Urban,Middle,non manua,No,Primary,Yes,Oui,Not at al,Yes,Non,No,No,Oui,Oui,informal
+535,TN,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Primary,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,formal
+1430,EG,Male,<= 19,Never Mar,Urban,Primary,non manua,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2837,TN,Male,25+,Never Mar,Urban,Middle,non manua,No,Primary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1178,EG,Female,25+,Ever Marr,Urban,Middle,manual t,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2972,DZ,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1047,EG,Male,25+,Ever Marr,Urban,Middle,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2696,TN,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+519,TN,Female,20 - 24,Never Mar,Urban,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Non,Oui,formal
+2844,DZ,Male,20 - 24,Never Mar,Urban,Primary,manual t,No,Secondary,No,Oui,Not at al,Yes,Non,No,No,Non,Non,informal
+2819,TN,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+978,EG,Male,<= 19,Never Mar,Rural,No educati,manual t,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1172,EG,Male,20 - 24,Never Mar,Urban,Higher,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+2982,EG,Male,<= 19,Never Mar,Urban,Secondary,non manua,No,Higher,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1687,EG,Male,20 - 24,Never Mar,Rural,Secondary,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Non,informal
+168,DZ,Female,20 - 24,Never Mar,Rural,Higher,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1418,DZ,Male,<= 19,Never Mar,Urban,Middle,non manua,Yes,Middle,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+965,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+583,LB,Female,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,No,Non,Not at al,Yes,Non,yes,yes,Oui,Non,formal
+1138,DZ,Female,<= 19,Never Mar,Rural,Middle,non manua,No,Middle,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1258,DZ,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Non,Completel,Yes,Non,No,No,Non,Non,informal
+413,LB,Male,25+,Never Mar,Rural,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2489,TN,Female,25+,Never Mar,Rural,Primary,manual t,No,Primary,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+1902,EG,Male,<= 19,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2395,TN,Male,<= 19,Never Mar,Urban,Primary,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+186,LB,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Middle,No,Non,Not at al,No,Non,No,yes,Oui,Oui,formal
+1280,TN,Female,20 - 24,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+461,LB,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Non,formal
+1578,DZ,Male,20 - 24,Never Mar,Rural,Higher,manual t,No,Primary,Yes,Non,Completel,No,Non,No,yes,Oui,Oui,informal
+2314,TN,Female,25+,Never Mar,Rural,Primary,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+910,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+720,EG,Male,25+,Ever Marr,Rural,No educati,non manua,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,formal
+2254,TN,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,Primary,Yes,Non,Not at al,No,Non,No,yes,Non,Non,informal
+2239,EG,Male,20 - 24,Never Mar,Urban,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+56,TN,Female,20 - 24,Never Mar,Rural,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+76,TN,Female,25+,Never Mar,Urban,Primary,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,formal
+2112,EG,Male,25+,Ever Marr,Urban,No educati,non manua,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1560,TN,Female,20 - 24,Never Mar,Rural,Secondary,manual t,No,Primary,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+1238,TN,Male,25+,Never Mar,Urban,Middle,manual t,No,Primary,No,Oui,Not at al,No,Non,yes,No,Non,Non,informal
+55,LB,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,formal
+2783,TN,Female,25+,Never Mar,Urban,Middle,non manua,No,Primary,No,Non,Not at al,Yes,Non,yes,No,Non,Non,informal
+1311,TN,Male,20 - 24,Never Mar,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+2665,DZ,Male,<= 19,Never Mar,Rural,Middle,non manua,No,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1658,EG,Male,25+,Never Mar,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,No,Non,No,No,Oui,Oui,informal
+141,LB,Female,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Non,Not at al,No,Non,No,yes,Oui,Oui,formal
+1872,EG,Female,20 - 24,Ever Marr,Rural,Secondary,manual t,No,No educati,No,Non,Not at al,No,Non,No,yes,Oui,Oui,informal
+680,DZ,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,No,yes,Oui,Oui,formal
+485,LB,Male,25+,Ever Marr,Urban,Secondary,non manua,No,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1513,TN,Female,20 - 24,Ever Marr,Urban,Secondary,non manua,No,Primary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+31,TN,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,No,yes,Oui,Oui,formal
+584,TN,Male,25+,Never Mar,Urban,Higher,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,formal
+855,DZ,Male,20 - 24,Never Mar,Rural,Middle,non manua,No,No educati,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+483,LB,Male,25+,Ever Marr,Urban,Higher,non manua,Yes,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+2310,DZ,Male,<= 19,Never Mar,Urban,Middle,non manua,Yes,Primary,Yes,Non,Completel,Yes,Non,No,No,Non,Non,informal
+1634,EG,Male,25+,Ever Marr,Urban,Secondary,manual t,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2940,EG,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+2047,DZ,Male,20 - 24,Never Mar,Rural,Primary,non manua,No,Primary,Yes,Non,Completel,Yes,Non,No,No,Non,Non,informal
+1603,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+406,TN,Male,25+,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,formal
+2358,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1220,EG,Male,25+,Ever Marr,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2542,DZ,Male,25+,Never Mar,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2132,EG,Male,<= 19,Never Mar,Urban,Secondary,manual t,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1643,DZ,Female,25+,Never Mar,Rural,Higher,manual t,No,No educati,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,informal
+496,DZ,Male,25+,Never Mar,Rural,Higher,non manua,No,No educati,Yes,Oui,Not at al,Yes,Non,No,No,Non,Non,formal
+1308,EG,Male,20 - 24,Ever Marr,Rural,Primary,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+701,EG,Female,25+,Ever Marr,Urban,Higher,manual t,No,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2597,DZ,Female,20 - 24,Never Mar,Urban,Primary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Non,informal
+2333,TN,Male,25+,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,No,Non,Non,informal
+269,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,No,Secondary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2863,TN,Female,20 - 24,Never Mar,Urban,Middle,non manua,No,Middle,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+79,DZ,Male,20 - 24,Never Mar,Urban,Middle,manual t,Yes,Secondary,Yes,Oui,Not at al,Yes,Non,No,yes,Oui,Oui,formal
+1939,DZ,Male,25+,Never Mar,Rural,Middle,non manua,No,No educati,Yes,Oui,Completel,Yes,Non,No,No,Non,Non,informal
+569,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Middle,Yes,Non,Not at al,No,Non,yes,yes,Oui,Non,formal
+1355,TN,Male,20 - 24,Never Mar,Urban,Higher,non manua,No,Primary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+83,LB,Female,25+,Ever Marr,Rural,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Non,formal
+1329,EG,Male,<= 19,Never Mar,Rural,Primary,non manua,No,No educati,No,Non,Not at al,No,Non,No,yes,Non,Non,informal
+395,LB,Female,20 - 24,Never Mar,Urban,Higher,manual t,Yes,Higher,Yes,Non,Not at al,No,Non,yes,yes,Non,Oui,formal
+2722,LB,Male,20 - 24,Never Mar,Urban,Higher,manual t,Yes,Primary,No,Non,Not at al,Yes,Non,yes,yes,Oui,Non,informal
+1845,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Oui,Oui,informal
+593,LB,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Primary,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,formal
+2183,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+1756,LB,Male,25+,Never Mar,Urban,Middle,non manua,Yes,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+86,DZ,Female,25+,Never Mar,Urban,Secondary,non manua,Yes,No educati,Yes,Oui,Not at al,Yes,Non,No,yes,Non,Non,formal
+1417,TN,Male,25+,Never Mar,Urban,Primary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2953,DZ,Male,<= 19,Never Mar,Urban,Secondary,manual t,No,Secondary,Yes,Non,Completel,Yes,Non,No,No,Non,Non,informal
+177,LB,Female,25+,Ever Marr,Urban,Higher,non manua,No,Middle,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+825,LB,Male,25+,Never Mar,Urban,Middle,manual t,Yes,Secondary,Yes,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+2413,EG,Female,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+154,TN,Male,25+,Never Mar,Urban,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+670,TN,Male,20 - 24,Never Mar,Rural,Middle,non manua,No,No educati,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2182,EG,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Primary,Yes,Non,Not at al,No,Non,No,No,Non,Non,informal
+1958,DZ,Male,20 - 24,Never Mar,Rural,Primary,manual t,No,Primary,No,Non,Completel,Yes,Non,No,yes,Oui,Oui,informal
+1785,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+903,LB,Male,20 - 24,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Non,Non,formal
+58,LB,Male,25+,Ever Marr,Rural,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+2219,EG,Male,25+,Ever Marr,Rural,Higher,non manua,No,Secondary,No,Oui,Not at al,No,Non,yes,No,Oui,Oui,informal
+2543,EG,Male,20 - 24,Never Mar,Urban,Primary,non manua,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+1211,LB,Female,25+,Ever Marr,Urban,Secondary,non manua,Yes,Primary,No,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+323,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Non,formal
+1322,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+1621,EG,Female,20 - 24,Never Mar,Rural,Higher,non manua,No,No educati,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2271,EG,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2129,EG,Male,20 - 24,Never Mar,Rural,Primary,manual t,No,Middle,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+1399,DZ,Male,<= 19,Never Mar,Urban,Secondary,manual t,No,Primary,Yes,Non,Completel,No,Non,yes,yes,Oui,Oui,informal
+1599,TN,Female,<= 19,Never Mar,Urban,Secondary,non manua,No,Middle,Yes,Non,Not at al,No,Non,yes,No,Oui,Non,informal
+2259,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+326,EG,Female,25+,Never Mar,Urban,Secondary,non manua,No,No educati,Yes,Oui,Not at al,No,Non,No,yes,Non,Non,formal
+1998,TN,Female,25+,Never Mar,Urban,Higher,manual t,No,Secondary,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+1210,LB,Male,<= 19,Never Mar,Urban,Middle,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+1773,LB,Female,20 - 24,Never Mar,Urban,Middle,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+518,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Non,formal
+763,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Non,formal
+1052,TN,Male,<= 19,Never Mar,Rural,Middle,non manua,No,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2363,TN,Male,20 - 24,Never Mar,Urban,Primary,manual t,No,Primary,Yes,Non,Not at al,Yes,Non,No,yes,Non,Non,informal
+459,LB,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Secondary,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+1559,EG,Female,<= 19,Ever Marr,Rural,Secondary,non manua,No,Middle,Yes,Non,Not at al,No,Non,No,No,Oui,Oui,informal
+2140,LB,Male,25+,Ever Marr,Urban,Middle,non manua,Yes,No educati,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2971,LB,Male,20 - 24,Never Mar,Urban,Middle,non manua,No,Primary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1351,TN,Male,25+,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Non,Not at al,No,Non,yes,yes,Non,Oui,informal
+1626,EG,Male,20 - 24,Never Mar,Rural,No educati,manual t,No,No educati,No,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+1021,DZ,Male,<= 19,Never Mar,Urban,Middle,manual t,No,Primary,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+386,EG,Male,25+,Never Mar,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,No,No,Oui,Oui,formal
+2639,EG,Male,25+,Ever Marr,Rural,Higher,non manua,No,No educati,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2010,TN,Male,25+,Never Mar,Urban,Primary,non manua,No,Primary,Yes,Oui,Not at al,No,Non,No,No,Non,Non,informal
+2300,EG,Male,20 - 24,Never Mar,Urban,Primary,non manua,No,Primary,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+2281,EG,Male,25+,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+336,LB,Male,25+,Never Mar,Urban,Higher,manual t,No,Middle,Yes,Non,Not at al,No,Non,No,yes,Non,Non,formal
+652,EG,Female,25+,Never Mar,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,No,Non,No,No,Non,Non,formal
+1830,EG,Male,20 - 24,Ever Marr,Rural,Secondary,manual t,No,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2743,EG,Female,<= 19,Never Mar,Urban,Middle,manual t,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2295,LB,Male,25+,Ever Marr,Urban,Higher,manual t,No,Higher,No,Non,Not at al,Yes,Non,yes,yes,Oui,Non,informal
+890,TN,Male,25+,Never Mar,Urban,Higher,non manua,No,Middle,Yes,Oui,Not at al,Yes,Non,No,yes,Non,Non,formal
+2871,TN,Male,<= 19,Never Mar,Urban,Secondary,non manua,Yes,Secondary,Yes,Non,Not at al,Yes,Non,yes,No,Non,Oui,informal
+248,TN,Female,25+,Ever Marr,Urban,Higher,non manua,No,Middle,Yes,Oui,Not at al,No,Non,yes,yes,Non,Non,formal
+738,DZ,Male,20 - 24,Never Mar,Urban,Higher,non manua,No,Higher,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2492,TN,Male,25+,Never Mar,Urban,Primary,non manua,No,Middle,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,informal
+2561,EG,Male,<= 19,Never Mar,Rural,Middle,manual t,No,No educati,No,Oui,Not at al,No,Non,yes,No,Oui,Oui,informal
+2809,LB,Female,<= 19,Never Mar,Urban,Middle,manual t,Yes,Secondary,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+2007,EG,Male,20 - 24,Never Mar,Rural,Secondary,manual t,No,No educati,No,Oui,Not at al,No,Non,No,yes,Oui,Oui,informal
+1276,LB,Male,20 - 24,Ever Marr,Urban,Middle,non manua,No,Middle,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+2525,DZ,Male,<= 19,Never Mar,Rural,Middle,manual t,No,No educati,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+96,DZ,Female,20 - 24,Never Mar,Rural,Middle,non manua,No,Secondary,Yes,Non,Completel,Yes,Non,No,yes,Non,Non,formal
+2452,LB,Female,25+,Ever Marr,Urban,Middle,non manua,No,Middle,No,Non,Not at al,No,Non,yes,No,Non,Non,informal
+2428,LB,Male,25+,Never Mar,Rural,Middle,manual t,Yes,Primary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Non,informal
+909,EG,Male,25+,Ever Marr,Rural,Primary,non manua,No,Primary,No,Oui,Not at al,No,Non,No,No,Oui,Non,formal
+2168,DZ,Male,25+,Never Mar,Urban,Primary,non manua,No,Secondary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+1664,EG,Male,25+,Ever Marr,Rural,Secondary,manual t,No,No educati,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+516,DZ,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,Yes,Oui,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+125,LB,Male,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Primary,No,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,formal
+2297,LB,Male,<= 19,Never Mar,Rural,Primary,non manua,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Oui,informal
+399,EG,Female,20 - 24,Ever Marr,Rural,Higher,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,No,yes,Oui,Oui,formal
+2378,TN,Male,20 - 24,Never Mar,Urban,Secondary,non manua,No,Secondary,Yes,Oui,Not at al,No,Non,yes,yes,Oui,Non,informal
+2689,EG,Female,<= 19,Ever Marr,Rural,Secondary,non manua,No,No educati,No,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+1706,LB,Male,<= 19,Never Mar,Urban,Primary,non manua,Yes,Secondary,No,Non,Not at al,No,Non,No,No,Non,Non,informal
+1893,EG,Male,25+,Ever Marr,Rural,Secondary,non manua,No,No educati,No,Oui,Not at al,No,Non,No,No,Non,Non,informal
+325,LB,Female,25+,Ever Marr,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,yes,yes,Non,Non,formal
+1777,EG,Female,20 - 24,Never Mar,Urban,Higher,non manua,No,Secondary,No,Oui,Not at al,No,Non,yes,yes,Non,Non,informal
+904,DZ,Male,25+,Never Mar,Rural,Secondary,non manua,No,Secondary,Yes,Oui,Completel,Yes,Non,yes,yes,Oui,Oui,formal
+469,LB,Male,25+,Never Mar,Urban,Secondary,non manua,No,Primary,No,Oui,Not at al,Yes,Non,yes,yes,Non,Non,formal
+528,DZ,Female,25+,Never Mar,Urban,Higher,non manua,No,Primary,No,Oui,Not at al,No,Non,yes,yes,Oui,Oui,formal
+1919,TN,Male,<= 19,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Non,Not at al,Yes,Non,yes,yes,Oui,Oui,informal
+1123,EG,Female,20 - 24,Never Mar,Urban,Higher,non manua,Yes,Higher,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,informal
+453,LB,Male,25+,Never Mar,Urban,Secondary,manual t,No,Secondary,Yes,Non,Not at al,Yes,Non,No,No,Non,Non,formal
+2131,LB,Male,25+,Ever Marr,Rural,Higher,non manua,Yes,Higher,No,Non,Not at al,Yes,Non,yes,yes,Non,Oui,informal
+556,TN,Male,25+,Never Mar,Urban,Higher,non manua,Yes,Secondary,Yes,Non,Not at al,No,Non,yes,yes,Oui,Oui,formal
+900,DZ,Male,20 - 24,Never Mar,Urban,Middle,manual t,No,Primary,Yes,Oui,Not at al,No,Non,No,yes,Non,Non,formal
+2429,LB,Male,25+,Never Mar,Urban,Secondary,non manua,Yes,Middle,No,Non,Not at al,No,Non,yes,yes,Non,Non,informal
+2876,LB,Male,25+,Never Mar,Urban,Primary,non manua,No,Primary,No,Non,Not at al,No,Non,No,No,Non,Non,informal

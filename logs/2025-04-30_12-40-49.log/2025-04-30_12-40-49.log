@@ -1,0 +1,33 @@
+[2025-04-30 12:40:59] root - INFO - Data read successfully from the source.
+[2025-04-30 12:40:59] root - INFO - Raw data saved to artifacts\data.csv.
+[2025-04-30 12:40:59] root - INFO - Train data saved to artifacts\train.csv.
+[2025-04-30 12:40:59] root - INFO - Test data saved to artifacts\test.csv.
+[2025-04-30 12:40:59] root - INFO - df columns: Index(['Unnamed: 0', 'country', 'Gender', 'Age', 'Marital status',
+       'Stratum Urban', 'HM25_1', 'Natur of work', 'Level of Wealth',
+       'Fathers level education', 'Parent_affiliated_with Social Security',
+       'Participation in elections', 'Freedom to speach out about government',
+       'Resort to nepotism', 'Trust in Parliment', 'Trust in employers',
+       'Trust in associations', 'Trust in political_parties',
+       'Political system', 'Formality'],
+      dtype='object')
+[2025-04-30 12:40:59] root - INFO - Read train and test data completed
+[2025-04-30 12:40:59] root - INFO - Obtaining preprocessor object
+[2025-04-30 12:40:59] root - INFO - Categorical columns: ['country', 'Gender', 'Age', 'Marital status', 'Stratum Urban', 'Natur of work', 'Level of Wealth', 'Fathers level education', 'Parent_affiliated_with Social Security', 'Participation in elections', 'Freedom to speach out about government', 'Resort to nepotism', 'Trust in Parliment', 'Trust in employers', 'Trust in associations', 'Trust in political_parties', 'Political system', 'Formality'] one hot encoder applied
+[2025-04-30 12:40:59] root - INFO - Drop columns: ['Formality', 'Unnamed: 0', 'HM25_1']
+[2025-04-30 12:40:59] root - INFO - Input feature train df columns: Index(['country', 'Gender', 'Age', 'Marital status', 'Stratum Urban',
+       'Natur of work', 'Level of Wealth', 'Fathers level education',
+       'Parent_affiliated_with Social Security', 'Participation in elections',
+       'Freedom to speach out about government', 'Resort to nepotism',
+       'Trust in Parliment', 'Trust in employers', 'Trust in associations',
+       'Trust in political_parties', 'Political system'],
+      dtype='object')
+[2025-04-30 12:40:59] root - INFO - Target feature train df columns: Formality
+[2025-04-30 12:40:59] root - INFO - Input feature test df columns: Index(['country', 'Gender', 'Age', 'Marital status', 'Stratum Urban',
+       'Natur of work', 'Level of Wealth', 'Fathers level education',
+       'Parent_affiliated_with Social Security', 'Participation in elections',
+       'Freedom to speach out about government', 'Resort to nepotism',
+       'Trust in Parliment', 'Trust in employers', 'Trust in associations',
+       'Trust in political_parties', 'Political system'],
+      dtype='object')
+[2025-04-30 12:40:59] root - INFO - Target feature test df columns: Formality
+[2025-04-30 12:40:59] root - INFO - Applying preprocessing object on training and testing dataframes
