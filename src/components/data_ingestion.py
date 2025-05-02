@@ -31,7 +31,6 @@ class DataIngestion:
         try:
             # Read the data from the source
             df = pd.read_excel("notebook\informality_data_for_analysis.xlsx")
-            
             logging.info("Data read successfully from the source.")
             
             # Save the raw data to the specified path

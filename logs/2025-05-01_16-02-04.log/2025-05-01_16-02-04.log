@@ -1,0 +1,40 @@
+[2025-05-01 16:02:04] werkzeug - WARNING -  * Debugger is active!
+[2025-05-01 16:02:04] werkzeug - INFO -  * Debugger PIN: 995-855-193
+[2025-05-01 16:05:35] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:05:35] "GET / HTTP/1.1" 200 -
+[2025-05-01 16:05:39] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:05:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-05-01 16:06:33] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:06:33] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2025-05-01 16:06:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:06:34] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-05-01 16:06:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:06:34] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-05-01 16:06:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:06:34] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=TFKVmQQQcam3oHcsM1pK HTTP/1.1" 200 -
+[2025-05-01 16:06:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:06:34] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2025-05-01 16:07:07] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 16:07:07] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:07:43] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:07:43] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:48:45] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:48:45] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:48:48] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:48:48] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:48:51] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:48:51] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:51:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:51:34] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 22:53:18] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 22:53:18] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:27:20] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:27:20] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:29:36] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:29:36] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:31:26] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:31:26] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:32:49] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:32:49] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:33:33] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:33:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-05-01 23:33:33] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:33:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-01 23:33:33] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:33:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-01 23:33:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:33:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=TFKVmQQQcam3oHcsM1pK HTTP/1.1[0m" 304 -
+[2025-05-01 23:33:34] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:33:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-01 23:36:55] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:36:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-05-01 23:36:55] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:36:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-01 23:36:55] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:36:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-01 23:36:56] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:36:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=TFKVmQQQcam3oHcsM1pK HTTP/1.1[0m" 304 -
+[2025-05-01 23:36:56] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:36:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-01 23:37:05] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:37:05] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:38:36] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:38:36] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:42:24] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:42:24] "GET /predict HTTP/1.1" 200 -
+[2025-05-01 23:43:00] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-05-01 23:43:00] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-05-01 23:43:00] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-01 23:43:00] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-01 23:43:01] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=TFKVmQQQcam3oHcsM1pK HTTP/1.1[0m" 304 -
+[2025-05-01 23:43:01] werkzeug - INFO - 127.0.0.1 - - [01/May/2025 23:43:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-01 23:44:28] werkzeug - INFO -  * Detected change in 'C:\\Users\\tchok\\OneDrive\\Bureau\\mlproject\\app.py', reloading

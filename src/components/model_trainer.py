@@ -31,15 +31,53 @@ class ModelTrainer:
             'Ridge Classifier': RidgeClassifier(),
             'Extra Trees Classifier': ExtraTreesClassifier()
         }
-        self.best_model = None
-        self.best_model_name = None
-
+        self.params = {
+            'Logistic Regression': {
+                'C': [0.1,1,10],
+                "max_iter":[500,1000,1500]
+                },
+            'Random Forest': 
+                {'n_estimators': [100,200,300], 
+                 'max_depth': [5,10,15], 
+                 'min_samples_split': [2,5,10],
+                 'class_weight': [None, 'balanced']
+                 },
+            'Decision Tree': {
+                'max_depth': [5,10,15], 
+                'min_samples_split': [2,5,10], 
+                'class_weight': [None, 'balanced']
+                }, 
+            'K-Neighbors': {
+                'n_neighbors': [3,5,7], 
+                'weights':['uniform', 'distance'], 
+                'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute']
+                },
+            'MLP Classifier': {
+                'hidden_layer_sizes': [(50,), (100,), (150,)], 
+                'activation': ['relu', 'tanh', 'logistic'], 
+                'max_iter': [500, 1000, 1500], 
+                'solver': ['adam', 'sgd', 'lbfgs'], 
+                'learning_rate': ['constant', 'invscaling', 'adaptive'], 
+                'alpha': [0.0001, 0.001, 0.01]
+                },
+            'Ridge Classifier': {
+                'alpha':[0.1, 1.0, 10.0], 
+                'max_iter': [1000, 2000, 3000]
+                },
+            'Extra Trees Classifier': {
+                'n_estimators': [100, 200, 300], 
+                'max_depth': [5, 10, 15], 
+                'min_samples_split': [2, 5, 10], 
+                'class_weight': [None, 'balanced']
+                }
+        }
+                               
     def train(self, train_array,test_array,preprocessor):
         try:
             logging.info("Splitting training and testing data")
             X_train, y_train, X_test, y_test = train_array[:,:-1], train_array[:,-1], test_array[:,:-1], test_array[:,-1]
             
-            model_report = evaluate_models(X_train, y_train, X_test, y_test, self.models)
+            model_report = evaluate_models(X_train, y_train, X_test, y_test, self.models,params=self.params)
             best_model_score = max(list(model_report.values()))      
             best_model_name = list(model_report.keys())[list(model_report.values()).index(best_model_score)]
             best_model = self.models[best_model_name]
